@@ -742,7 +742,7 @@ section .title::after{
 
 /* projects section styling */
 .teams .title::after{
-    content: "Projects Done";
+    content: "Team 6 Members";
 }
 .teams .carousel .card{
     background: #222;
@@ -918,7 +918,7 @@ footer
 {
     position: relative;
     width: 100%;
-    background: silver;
+    background: #ABB2B9;
     min-height: 100px;
     padding: 20px 50px;
     display: flex;
